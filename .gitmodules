@@ -1,0 +1,24 @@
+[submodule "src/hyprwayland-scanner"]
+	path = src/hyprwayland-scanner
+	url = https://github.com/hyprwm/hyprwayland-scanner.git
+[submodule "src/hyprutils"]
+	path = src/hyprutils
+	url = https://github.com/hyprwm/hyprutils.git
+[submodule "src/hyprgraphics"]
+	path = src/hyprgraphics
+	url = https://github.com/hyprwm/hyprgraphics.git
+[submodule "src/hyprcursor"]
+	path = src/hyprcursor
+	url = https://github.com/hyprwm/hyprcursor.git
+[submodule "src/hyprwire"]
+	path = src/hyprwire
+	url = https://github.com/hyprwm/hyprwire.git
+[submodule "src/hyprland-qtutils"]
+	path = src/hyprland-qtutils
+	url = https://github.com/hyprwm/hyprland-qtutils.git
+[submodule "src/aquamarine"]
+	path = src/aquamarine
+	url = https://github.com/hyprwm/aquamarine.git
+[submodule "src/hyprland"]
+	path = src/hyprland
+	url = https://github.com/Precizne/hyprland.git
