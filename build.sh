@@ -31,7 +31,7 @@ git submodule update --init --recursive
 # Core Compilation Function
 ############################
 build_dependency() {
-    DIR_NAME=$2
+    DIR_NAME=$1
 
     echo "==============================================="
     echo " Building Dependency: $DIR_NAME                "

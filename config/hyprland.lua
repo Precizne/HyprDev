@@ -11,14 +11,14 @@ hl.config({
     },
 
     ------------------------------------------------
-    input = {
-        follow_mouse = 2
-    },
+    -- input = {
+    --     follow_mouse = 2
+    -- },
 
     ------------------------------------------------
-    cursor = {
-        no_warps = true
-    },
+    -- cursor = {
+    --     no_warps = true
+    -- },
 
     ------------------------------------------------
     general = {
@@ -41,6 +41,15 @@ hl.config({
         wrap_focus = false,
         wrap_swapcol = false
     }
+})
+
+-- Animations
+hl.animation({
+    leaf = "workspaces",
+    enabled = true,
+    speed = 8,
+    bezier = "default",
+    style = "slidevert"
 })
 
 -- Monitors
