@@ -21,4 +21,4 @@
 	url = https://github.com/hyprwm/aquamarine.git
 [submodule "src/hyprland"]
 	path = src/hyprland
-	url = https://github.com/Precizne/hyprland.git
+	url = git@github.com:Precizne/hyprland.git
