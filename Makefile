@@ -3,7 +3,7 @@
 ##############
 .ONESHELL:
 SHELL := /bin/bash
-.SHELLFLAGS := -euo pipefail -c
+.SHELLFLAGS := -euox pipefail -c
 
 #############################
 # Path And Environment Setup
